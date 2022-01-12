@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Supplier-00000000046   Supplier-00000000046]]>
+    </line>
+    <line>
+      <![CDATA[Baby and Kids    Baby and Kids]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72901" started-at="2021-12-03T12:39:48Z" finished-at="2021-12-03T12:41:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72901" started-at="2021-12-03T12:39:48Z" finished-at="2021-12-03T12:41:01Z">
+      <class name="DriverFactory.AppTest">
+        <test-method status="PASS" signature="kickStart()[pri:0, instance:DriverFactory.AppTest@4cc0edeb]" name="kickStart" duration-ms="72882" started-at="2021-12-03T18:09:48Z" finished-at="2021-12-03T18:11:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Supplier-00000000046   Supplier-00000000046]]>
+            </line>
+            <line>
+              <![CDATA[Baby and Kids    Baby and Kids]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- kickStart -->
+      </class> <!-- DriverFactory.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
